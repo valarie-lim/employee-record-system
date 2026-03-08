@@ -1,0 +1,2 @@
+951122-13-5544	User	Yee Hang	Lim	31	Female	22-11-1995	012-3456789	sample@gmail.com	IT	Internship	08-03-2026
+001122-13-5566	User	Number	Two	26	Male	22-11-2000	010-9876543	sampleuser@gmail.com	Human Resource	Assistant Manager	25-01-2025	
