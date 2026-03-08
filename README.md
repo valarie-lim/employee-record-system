@@ -128,25 +128,19 @@ This structure contains employee details such as:
 ### Main Menu
 
 ![Main Menu](screenshots/main_menu.png)
-![Admin Main Menu](screenshots/admin_main_menu.png)
 
 ---
 
 ### Administrator Login
 
 ![Login Page](screenshots/login.png)
+![Admin Main Menu](screenshots/admin_main_menu.png)
 
 ---
 
 ### Add Employee Record
 
 ![Add Employee](screenshots/add_employee.png)
-
----
-
-### Display Employee Records
-
-![Display Records](screenshots/display_records.png)
 
 ---
 
@@ -159,6 +153,12 @@ This structure contains employee details such as:
 ### Update Employee Record
 
 ![Search Record](screenshots/search_record.png)
+
+---
+
+### Display Employee Records
+
+![Display Records](screenshots/display_records.png)
 
 ---
 
