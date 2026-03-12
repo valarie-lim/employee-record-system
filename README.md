@@ -120,47 +120,44 @@ The program reads and writes data using C++ file handling (`fstream`).
 ---
 
 ## Program Structure
-The system is built using modular functions for different operations.
-
+The system is built using modular functions for different operations.  
 Main functions include:
-login()
-registration()
-forgotPass()
+login()  
+registration()  
+forgotPass()  
+  
+addRecord()  
+displayRecord()  
+searchRecord()  
+updateRecord()  
+deleteRecord()  
+  
+generalSearchRecord()  
+menu()  
+generalMenu()  
+  
+Employee information is stored using a C++ structure:  
+struct Employee  
 
-addRecord()
-displayRecord()
-searchRecord()
-updateRecord()
-deleteRecord()
-
-generalSearchRecord()
-menu()
-generalMenu()
-
-
-Employee information is stored using a C++ structure:
-struct Employee
-
-
-This structure contains employee details such as:
-- IC number
-- Name
-- Age
-- Gender
-- Birthday
-- Contact number
-- Email
-- Department
-- Position
-- Employment date
-
+This structure contains employee details such as:  
+- IC number  
+- Name  
+- Age  
+- Gender  
+- Birthday  
+- Contact number  
+- Email  
+- Department  
+- Position  
+- Employment date  
+  
 ---
 
 ## System Requirements
--Windows operating system
--No installation required
-
-Simply extract the ZIP file and run the executable file.
+-Windows operating system  
+-No installation required  
+  
+Simply extract the ZIP file and run the executable file.  
 
 ---
 
