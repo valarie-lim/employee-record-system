@@ -23,14 +23,14 @@ This project demonstrates basic database management concepts such as record crea
 ## Default Administrator Login
 To test the system with full access, use the following default credentials:
 
-Username: admin
+Username: admin  
 Password: admin@123
 
 Administrator access allows the following operations:
 
--Add employee records
--Update employee records
--Delete employee records
+-Add employee records  
+-Update employee records  
+-Delete employee records  
 -Display all employee records
 
 General users can access limited features such as searching employee records.
