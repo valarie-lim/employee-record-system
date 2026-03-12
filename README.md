@@ -28,10 +28,10 @@ Password: admin@123
 
 Administrator access allows the following operations:
 
--Add employee records  
--Update employee records  
--Delete employee records  
--Display all employee records
+- Add employee records  
+- Update employee records  
+- Delete employee records  
+- Display all employee records
 
 General users can access limited features such as searching employee records.
 
@@ -121,7 +121,7 @@ The program reads and writes data using C++ file handling (`fstream`).
 
 ## Program Structure
 The system is built using modular functions for different operations.  
-Main functions include:
+Main functions include:  
 login()  
 registration()  
 forgotPass()  
@@ -139,7 +139,7 @@ generalMenu()
 Employee information is stored using a C++ structure:  
 struct Employee  
 
-This structure contains employee details such as:  
+This structure contains employee details such as:
 - IC number  
 - Name  
 - Age  
@@ -154,8 +154,8 @@ This structure contains employee details such as:
 ---
 
 ## System Requirements
--Windows operating system  
--No installation required  
+- Windows operating system  
+- No installation required  
   
 Simply extract the ZIP file and run the executable file.  
 
