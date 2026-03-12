@@ -1,10 +1,37 @@
 # Employee Record System
-C++ | Console Application | File-Based Database
+
+![Language](https://img.shields.io/badge/Language-C++-blue)
+![Application](https://img.shields.io/badge/Application-Console%20App-green)
+![Storage](https://img.shields.io/badge/Storage-File%20Based-orange)
 
 The Employee Record System is a console-based management system developed using C++.  
 The system allows administrators to manage employee records through a menu-driven interface.
 
 This project demonstrates basic database management concepts such as record creation, searching, updating, and deletion using file-based storage.
+
+---
+
+## Quick Start
+1. Download EmployeeRecordSystem.zip
+2. Extract the ZIP file
+3. Open the folder
+4. Run EmployeeRecordSystem.exe
+5. Login using the default administrator account
+
+---
+
+## Default Administrator Login
+To test the system with full access, use the following default credentials:
+Username: admin
+Password: admin@123
+
+Administrator access allows the following operations:
+-Add employee records
+-Update employee records
+-Delete employee records
+-Display all employee records
+
+General users can access limited features such as searching employee records.
 
 ---
 
@@ -46,7 +73,9 @@ Examples:
 ---
 
 ## System Modules
+
 The system consists of the following modules:
+
 Authentication Module
 - Login
 - Registration
@@ -66,18 +95,20 @@ General User Module
 
 ## Data Storage
 The system uses **file-based storage** instead of a database.
+
 Employee records are stored in:
 employee_records.txt
 
+
 Administrator login credentials are stored in:
 Login_Records.txt
+
 
 The program reads and writes data using C++ file handling (`fstream`).
 
 ---
 
 ## Technologies Used
-
 - C++
 - File handling (`fstream`)
 - Regular expressions (`regex`)
@@ -88,12 +119,11 @@ The program reads and writes data using C++ file handling (`fstream`).
 
 ## Program Structure
 The system is built using modular functions for different operations.
+
 Main functions include:
 login()
 registration()
 forgotPass()
-
---
 
 addRecord()
 displayRecord()
@@ -101,14 +131,14 @@ searchRecord()
 updateRecord()
 deleteRecord()
 
---
-
 generalSearchRecord()
 menu()
 generalMenu()
 
+
 Employee information is stored using a C++ structure:
 struct Employee
+
 
 This structure contains employee details such as:
 - IC number
@@ -124,40 +154,42 @@ This structure contains employee details such as:
 
 ---
 
+## System Requirements
+-Windows operating system
+-No installation required
+
+Simply extract the ZIP file and run the executable file.
+
+---
+
 ## System Screenshots
 ### Main Menu
-
 ![Main Menu](screenshots/main_menu.png)
 
 ---
 
 ### Administrator Login
-
 ![Login Page](screenshots/login.png)
 ![Admin Main Menu](screenshots/admin_main_menu.png)
 
 ---
 
 ### Add Employee Record
-
 ![Add Employee](screenshots/add_employee.png)
 
 ---
 
 ### Search Employee Record
-
 ![Search Record](screenshots/search_record.png)
 
 ---
 
 ### Update Employee Record
-
 ![Search Record](screenshots/search_record.png)
 
 ---
 
 ### Display Employee Records
-
 ![Display Records](screenshots/display_records.png)
 
 ---
