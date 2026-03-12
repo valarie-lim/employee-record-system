@@ -1,4 +1,0 @@
-﻿  SourceCode.cpp
-D:\Microsoft Visual Studio\Employee Record System\Employee Record System\SourceCode.cpp(670,6): warning C4102: 'Department': unreferenced label
-D:\Microsoft Visual Studio\Employee Record System\Employee Record System\SourceCode.cpp(674,6): warning C4102: 'Position': unreferenced label
-  Employee Record System.vcxproj -> D:\Microsoft Visual Studio\Employee Record System\x64\Debug\Employee Record System.exe
