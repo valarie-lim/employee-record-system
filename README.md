@@ -15,7 +15,7 @@ This project demonstrates basic database management concepts such as record crea
 1. Download EmployeeRecordSystem.zip
 2. Extract the ZIP file
 3. Open the folder
-4. Run EmployeeRecordSystem.exe
+4. Run EmployeeRS.exe
 5. Login using the default administrator account
 
 ---
