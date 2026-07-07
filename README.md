@@ -200,6 +200,7 @@ Through this project, I learned:
 - Struct-based data modelling
 - Input validation using regular expressions
 - Modular programming and function design
+- Utilisation of vector for dynamic data storing
 - Menu-driven console application development
 
 ---
